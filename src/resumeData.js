@@ -4,42 +4,42 @@ let resumeData = {
     "role": " lawyer and Frontend Developer ",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "Currently venturing into web development through the best technologies for the industry.    Always in the learning process,  amateur calisthenics athlete in my free time and lover of good music and trips ",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/juan-pablo-barrios-grijalba-4a6799249/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/settings/profile",
           "className":"fa fa-github"
         },
         {
           "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
+          "url":"https://twitter.com/Juanb_042",
           "className":"fa fa-twitter"
+        },
+
+        {
+          "name":"instagram",
+          "url":"https://www.instagram.com/j.pablobarriosg.25/",
+          "className":"fa fa-instagram"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"Lawyer by profession, interested in being part of the technological era, currently I am dedicated to studying on learning platforms like platzi and Udemy and to create some projects to practice my knowledge to be a Full Stack Developer. ",
+    "address":"Colombia",
+    "website":"https://github.com/settings/profile",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
-      },
-      {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
+        "UniversityName":"Corporacion Universitaria Autonoma del Cauca",
+        "specialization":"Lawyer",
+        "MonthOfPassing":"Dic",
         "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
-      }
+      
+      },
+     
     ],
     "work":[
       {
@@ -71,14 +71,14 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
+        "name":"PortFile",
         "description":"mobileapp",
         "imgurl":"images/portfolio/phone.jpg"
       },
       {
-        "name":"project2",
+        "name":"REACT-HERO-APP",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "imgurl":""
       },
       {
         "name":"project3",
