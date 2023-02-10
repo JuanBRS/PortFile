@@ -29,7 +29,7 @@ let resumeData = {
         }
       ],
     "aboutme":"Lawyer by profession, interested in being part of the technological era, currently I am dedicated to studying on learning platforms like platzi and Udemy and to create some projects to practice my knowledge to be a Full Stack Developer. ",
-    "address":"Colombia",
+    "address":"Colombia, juanpablobarriosgrijalba@gmail.com",
     "website":"https://github.com/settings/profile",
     "education":[
       {
@@ -84,6 +84,7 @@ let resumeData = {
         "name":"project3",
         "description":"mobileapp",  
         "imgurl":"images/portfolio/project2.png"
+        
       },
       {
         "name":"project4",
