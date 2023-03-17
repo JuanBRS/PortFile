@@ -43,19 +43,13 @@ let resumeData = {
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
+        "CompanyName":"Consejo de Estado",
+        "specialization":"assistant legal",
         "MonthOfLeaving":"Jan",
         "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        
       },
-      {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
-      }
+     
     ],
     "skillsDescription":"Your skills here",
     "skills":[
@@ -73,33 +67,34 @@ let resumeData = {
       {
         "name":"PortFile",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "imgurl":"images/portfolio/phone.jpg",
+        
       },
       {
         "name":"REACT-HERO-APP",
         "description":"mobileapp",
-        "imgurl":""
+      
       },
       {
-        "name":"project3",
+        "name":"GIF EXPERT",
         "description":"mobileapp",  
         "imgurl":"images/portfolio/project2.png"
         
       },
       {
-        "name":"project4",
+        "name":"JOURNAL APP",
         "description":"mobileapp",
         "imgurl":"images/portfolio/phone.jpg"
       }
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"PROFILE",
+        "name":"JUAN PABLO BARRIOS"
       },
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"WEBDEVELOPER",
+        "name":"JUAN PABLO BARRIOS"
       }
     ]
   }
